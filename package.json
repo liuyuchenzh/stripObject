@@ -1,0 +1,27 @@
+{
+  "name": "stripObject",
+  "version": "1.0.0",
+  "description": "remove falsy value from object",
+  "author": "Yuchen Liu",
+  "main": "index.js",
+  "licenses": "MIT",
+  "module": "es/index.js",
+  "types": "es/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "es": "rm -f es/index.d.ts && tsc --module es6 --outDir es --target es6 --declaration",
+    "test": "node test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuyuchenzh/stripObject.git"
+  },
+  "keywords": [
+    "stripObject"
+  ],
+  "bugs": {
+    "url": "https://github.com/liuyuchenzh/stripObject/issues"
+  },
+  "homepage": "https://github.com/liuyuchenzh/stripObject#readme"
+}
