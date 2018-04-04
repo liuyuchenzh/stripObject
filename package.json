@@ -1,5 +1,5 @@
 {
-  "name": "y-stripObject",
+  "name": "y-strip",
   "version": "1.0.0",
   "description": "remove falsy value from object",
   "author": "Yuchen Liu",

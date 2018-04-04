@@ -1,4 +1,4 @@
-# y-stripObject
+# y-strip
 
 ## Intro
 
@@ -7,7 +7,7 @@ Remove falsy value from object.
 ## Usage
 
 ```js
-import SO from 'y-stripObject'
+import SO from 'y-strip'
 
 const so = new SO()
 const obj = {
