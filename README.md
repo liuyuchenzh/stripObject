@@ -1,5 +1,7 @@
 # y-strip
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/liuyuchenzh/stripObject.svg)](https://greenkeeper.io/)
+
 ## Intro
 
 Remove falsy value from object.
